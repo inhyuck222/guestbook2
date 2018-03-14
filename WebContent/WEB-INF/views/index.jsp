@@ -1,7 +1,5 @@
-<%@page import="java.util.ArrayList"%>
 <%@page import="com.cafe24.guestbook.vo.GuestbookVo"%>
 <%@page import="java.util.List"%>
-<%@page import="com.cafe24.guestbook.dao.GuestbookDao"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <%
