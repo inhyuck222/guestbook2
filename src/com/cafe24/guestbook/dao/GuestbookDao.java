@@ -10,6 +10,7 @@ import java.util.List;
 
 import com.cafe24.guestbook.vo.GuestbookVo;
 
+
 public class GuestbookDao {
 	
 	public boolean delete(GuestbookVo vo) {
